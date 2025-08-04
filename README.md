@@ -1,5 +1,5 @@
 # rect_editor
-Simple Hotspot .rect editor. 
+Simple Hotspot .rect editor for new Hammer++ feature.
 
 https://developer.valvesoftware.com/wiki/Hotspot_texturing
 
