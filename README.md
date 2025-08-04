@@ -10,8 +10,7 @@ https://developer.valvesoftware.com/wiki/Hotspot_texturing
 - "–" and "+" or  "[" and "]" - halve or double grid (like in Hammer Editor)
 
 
-Download:
-
+## Download:
 https://github.com/Ambiabstract/rect_editor/releases/latest
 
 ## Screenshots and final `.rect` code example:
