@@ -1,6 +1,5 @@
 # rect_editor
 Simple Hotspot .rect editor for new Hammer++ feature.
-
 https://developer.valvesoftware.com/wiki/Hotspot_texturing
 
 ## Keymap:
@@ -9,6 +8,9 @@ https://developer.valvesoftware.com/wiki/Hotspot_texturing
 - MMB drag - pan canvas
 - Mouse‑wheel - zoom in/out
 - "–" and "+" or  "[" and "]" - halve or double grid (like in Hammer Editor)
+
+Download:
+https://github.com/Ambiabstract/rect_editor/releases/latest
 
 ## Screenshots and final `.rect` code example:
 <img width="969" height="933" alt="изображение" src="https://github.com/user-attachments/assets/1c5c8422-49d4-40ea-a469-aae93b632751" />
