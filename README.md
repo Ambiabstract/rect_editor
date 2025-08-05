@@ -3,7 +3,7 @@ Simple Hotspot .rect editor for new Hammer++ feature.
 
 https://developer.valvesoftware.com/wiki/Hotspot_texturing
 
-## Keymap:
+## Controls:
 - LMB drag - draw rectangle (snaps to grid)
 - RMB click - delete rectangle under cursor
 - MMB drag - pan canvas
